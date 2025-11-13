@@ -1,8 +1,6 @@
 @import "tailwindcss";
 
 @theme {
-    --color-bg: #091420;
-    --color-bg-dark-color: #0c1a28;
-    --color-primary: #4fe98c;
+    --font-display: "Manrope"
 }
 
